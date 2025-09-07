@@ -1,39 +1,33 @@
-Got it, NADIB — here’s a full routine focused **only on English learning**, designed to build fluency, confidence, and professional communication skills. It’s structured for daily progress, with a mix of speaking, listening, reading, writing, and vocabulary.
+Here’s your complete daily life routine in a clean tabular format, NADIB — focused on your spiritual discipline, full-stack development, English fluency, and personal growth. You can use this as a journal template, daily tracker, or even convert it into a visual dashboard later.
 
 ---
 
-## 🗓️ Daily English Learning Routine (7 Days)
+## 📊 NADIB’s Daily Life Routine (Structured Table)
 
-| Time         | Activity                                                                 |
-|--------------|--------------------------------------------------------------------------|
-| **4:45–5:15** | 🌅 Morning reflection in English (gratitude journaling, affirmations)    |
-| **6:00–7:00** | 📖 Read 1 blog/article (Dev.to, Medium, or tech news) + note new words   |
-| **8:00–9:00** | 🎧 Listen to 1 English podcast (tech, support, or sales topics)          |
-| **10:00–11:00**| 🗣️ Practice speaking: explain a project or bug fix aloud                |
-| **13:00–14:00**| ✍️ Write a short email or support reply in English                      |
-| **15:30–16:00**| 📚 Learn 5 new phrases (customer support, polite expressions, idioms)   |
-| **17:00–18:00**| 🎬 Watch 1 YouTube video (Traversy Media, Fireship, TED) with subtitles |
-| **20:30–21:30**| 📝 Journal your day in English + review vocabulary                      |
-| **22:00–23:00**| 💬 Chat with AI or language partner (English only)                      |
-
----
-
-## 🔁 Weekly Focus Themes
-
-| Day       | Focus Area                          |
-|-----------|-------------------------------------|
-| Monday    | Vocabulary building                 |
-| Tuesday   | Listening & pronunciation           |
-| Wednesday | Writing (emails, support replies)   |
-| Thursday  | Speaking practice                   |
-| Friday    | Reading comprehension               |
-| Saturday  | Grammar & sentence structure        |
-| Sunday    | Review + casual conversation        |
+| Time           | Activity                                                                                  | Purpose                                                                 |
+|----------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| **4:45–5:15**  | Fajr Salat + gratitude reflection                                                         | Spiritual clarity, mental reset                                         |
+| **5:15–6:00**  | Light stretching + hydration + plan the day                                               | Physical refreshment, goal setting                                     |
+| **6:00–7:00**  | Breakfast + English vocabulary or phrase learning                                         | Language growth, energizing start                                      |
+| **7:00–9:00**  | React/Next.js coding + Tailwind UI development                                            | Frontend mastery                                                        |
+| **9:00–9:15**  | Duha Salat (optional)                                                                     | Spiritual boost                                                         |
+| **9:15–12:30** | Backend (Node.js, Express, MongoDB) + API integration                                     | Backend development                                                     |
+| **12:30–13:00**| Dhuhr Salat                                                                               | Midday spiritual alignment                                              |
+| **13:00–14:00**| Lunch + short break                                                                       | Physical rest, mental recharge                                          |
+| **14:00–15:30**| Internship/job applications + resume/cover letter optimization                            | Career advancement                                                      |
+| **15:30–16:00**| Asr Salat                                                                                 | Afternoon spiritual grounding                                           |
+| **16:00–17:30**| Tea break + English reading (blogs, support docs, case studies)                           | Language comprehension, relaxation                                      |
+| **17:30–18:30**| UI/UX polish + realistic visuals + doctor listing refinement                              | Design realism, project enhancement                                     |
+| **18:30–19:00**| Maghrib Salat                                                                             | Evening spiritual connection                                            |
+| **19:00–20:00**| Dinner + family time                                                                      | Emotional bonding, nourishment                                          |
+| **20:00–20:30**| Isha Salat                                                                                | Night spiritual closure                                                 |
+| **20:30–22:00**| Support engineering study + VPN/DNS troubleshooting + polite English writing              | Technical depth, communication skills                                  |
+| **22:00–23:00**| English journaling + daily reflection + plan tomorrow                                     | Self-awareness, language fluency                                        |
+| **23:00–4:45** | Sleep (optionally wake for Tahajjud between 2:30–4:30 AM)                                 | Rest, spiritual discipline                                              |
 
 ---
 
-Want me to turn this into a visual chart for your desktop like before? I can also add icons and make it motivational. Just say the word!
-
+If you'd like this turned into a visual chart for your desktop or mobile wallpaper, I can help with that too. Just say the word and I’ll make it beautiful and motivational.
 
 
 
